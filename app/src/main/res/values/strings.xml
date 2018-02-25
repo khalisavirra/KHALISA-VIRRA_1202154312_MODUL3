@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">KHALISAVIRRA_1202154312_Modul3</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_label">Newsssss</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_image">Sports Image</string>
+    <string name="filler_text"> </string>
+    <string name="input_username">Masukkan Username</string>
+    <string name="input_password">Masukkan Password</string>
+    <string name="minus_button">Minus Button</string>
+    <string name="plus_button">Plus Button</string>
+
+    <string-array name="aqua_titles">
+        <item>ADES</item>
+        <item>AMIDIS</item>
+        <item>AQUA</item>
+        <item>CLEO</item>
+        <item>CLUB</item>
+        <item>EQUIL</item>
+        <item>EVIAN</item>
+        <item>LE MINERALE</item>
+        <item>NESTLE</item>
+        <item>PRISTINE</item>
+        <item>VIT</item>
+    </string-array>
+
+    <string-array name="aqua_information">
+        <item>About Ades</item>
+        <item>About Amidis</item>
+        <item>About Aqua</item>
+        <item>About Cleo</item>
+        <item>About Club</item>
+        <item>About Equil</item>
+        <item>About Evian</item>
+        <item>About Le-Minerale</item>
+        <item>About Nestle</item>
+        <item>About Pristine</item>
+        <item>About Vit</item>
+    </string-array>
+
+    <array name="aqua_images">
+        <item>@drawable/ades</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/aqua</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="aqua_detail">
+        <item>Ades (sebelumnya dikenal AdeS) adalah merek air mineral dalam kemasan (AMDK) yang memiliki tagline “Langkah kecil memberikan perubahan“.</item>
+        <item>Amidis adalah air minum kesehatan yang diproses melalui sistem distilasi atau penyulingan atau penguapan yang memiliki tagline "Pure Water Natural Life".</item>
+        <item>Aqua adalah merek AMDK dengan penjualan terbesar dan merupakan salah satu merek AMDK yang paling terkenal di Indonesia, dengan tagline "Semua Berawal Dari Kita".</item>
+        <item>Cleo adalah air murni berkadar kemurnian 99,99% mengandung oksigen sampai dengan 8mg/L @ 20°C, yang memiliki tagline "Murnikan Tubuh dengan Air Murni".</item>
+        <item>Club adalah merek air minum dalam kemasan atau air mineral di Indonesia berasal dari Surabaya dan Pandaan, Pasuruan, Jawa Timur, dengan tagline "Air Segar Menyehatkan".</item>
+        <item>Equil adalah minuman yang kerap hadir di meja restoran fine dining, hotel bintang lima, hingga meja Istana Negara saat rapat kabinet, dengan tagline "Sparkling Natural Mineral Water".</item>
+        <item>Evian adalah sebuah merek air mineral Perancis yang berasal dari berbagai sumber dekat Évian-les-Bains, di pesisir selatan Lac Léman, dengan tagline "Live Young".</item>
+        <item>Le Minerale menjaga kandungan mineral utuh dengan  menggunakan teknologi perlindungan mineral pertama di Indonesia, yaitu Mineral Protection System, dengan tagline "Beda Segarnya, Bukti Terlindung Mineralnya".</item>
+        <item>Nestle adalah sebagai Air minum yang murni dan berkualitas, dengan tagline "Pure Life".</item>
+        <item>Pristine adalah AMDK murni yang merupakan hasil proses Ionisasi, suatu proses dimana memisahkan air dan mineral menjadi ion molekul yang lebih kecil, dengan tagline "Sehat itu Mudah, Detox Setiap Hari".</item>
+        <item>Vit adalah air mineral yang menjawab semua kebutuhan Anda akan air minum yang bermutu tinggi, dengan tagline "Selalu Ringan Selalu VIT".</item>
+    </string-array>
+</resources>
